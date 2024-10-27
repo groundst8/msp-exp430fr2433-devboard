@@ -1,0 +1,51 @@
+# Build directories
+Debug/
+Release/
+build/
+
+# CCS build artifacts
+*.out
+*.obj
+*.o
+*.d
+*.asm
+*.lst
+*.map
+*.cmd
+*.hex
+*.bin
+*.lib
+*.dep
+
+# CCS temporary files
+*.log
+*.tmp
+*.temp
+*.tcf
+*.xdl
+
+# Backup and temporary files
+*~
+*.bak
+*.swp
+*.swo
+*.swp
+
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# CCS specific cache files
+/.metadata/
+/.cproject.cache
+
+# Code Analysis and Indexer files
+/.settings/language.settings.xml
+
+# Exclude specific CCS settings if not needed
+# Uncomment the following lines if you want to ignore workspace-specific settings
+# .cproject
+# .project
+# .settings/
+
